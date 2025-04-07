@@ -1,0 +1,1 @@
+This code is written using MATLAB 2022b, Yalmip and Cplex 12.10.0.  The 'inxy3' is the longitude and latitude data of grid cells. The 'Main' is the optimization algorithm. The 'data_v_NH' is the wind conditions dataset, which can be found in https://codeocean.com/capsule/6900398/tree.
